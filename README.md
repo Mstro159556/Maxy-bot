@@ -24,13 +24,6 @@
 
 > ⚠️ **Note:** Maxy Bot is **closed-source**. The bot’s internal code is not publicly available.
 
----
-
-## 📊 Stats
-
-- **Cogs Loaded:** 10 (see `cogs.txt`)
-- **Guilds Served:** 10
-- **Commands:** Fully dynamic per cog
 
 ---
 
